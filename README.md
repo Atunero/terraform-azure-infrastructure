@@ -99,7 +99,3 @@ To ensure maintainability and security:
 - Integrate TFLint for static analysis
 - Use Terratest for automated integration testing
 - Use terraform-docs for automated documentation
-
-## License
-
-[MIT](LICENSE)
