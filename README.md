@@ -54,7 +54,7 @@ The repository includes an example for a development environment that:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/atunero/terraform-azure-infrastructure.git
-   cd your-repo-name/environments/dev
+   cd terraform-azure-infrastructure/environments/dev
    ```
 
 2. **Initialize Terraform:**
